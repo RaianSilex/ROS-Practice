@@ -1,0 +1,6 @@
+<launch>
+	<node name="pub" pkg="ocr_pkg" type="pub.py" output="screen"/>
+	<node name ="subpub" pkg="ocr_pkg" type="subpub.py" output="screen"/>
+	<node name ="sub" pkg="ocr_pkg" type="sub.py" output="screen"/>
+	
+</launch>
