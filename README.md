@@ -1,8 +1,3 @@
-# Demo Readme File.
+# README
 
-Something written here!
-
-
-## Subheader
-
-Adding something from VSCode.
+This package is used for extracting text from an image using OpenCV and ROS Noetic.
